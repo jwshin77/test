@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>
-	Hello FRIEND! hahapopppp~~~  
+	Hello FRIEND! KKKKK~~~  
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
